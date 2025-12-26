@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1766790846579",
+    "status": true,
+    "title": "Shampoo para autos",
+    "description": "Limpieza profunda",
+    "code": "AUTO001",
+    "price": 4500,
+    "stock": 15,
+    "category": "Limpieza vehicular",
+    "thumbnails": []
+  },
+  {
+    "id": "1766791721489",
+    "status": true
+  },
+  {
+    "id": "1766791726464",
+    "status": true,
+    "title": "Shampoo para autos",
+    "description": "Limpieza profunda",
+    "code": "AUTO001",
+    "price": 4500,
+    "stock": 15,
+    "category": "Limpieza vehicular",
+    "thumbnails": []
+  }
+]
