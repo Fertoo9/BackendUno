@@ -1,28 +1,15 @@
 [
   {
-    "id": "1766790846579",
+    "id": "1766848137729",
     "status": true,
     "title": "Shampoo para autos",
     "description": "Limpieza profunda",
     "code": "AUTO001",
-    "price": 4500,
-    "stock": 15,
+    "price": 4650,
+    "stock": 10,
     "category": "Limpieza vehicular",
-    "thumbnails": []
-  },
-  {
-    "id": "1766791721489",
-    "status": true
-  },
-  {
-    "id": "1766791726464",
-    "status": true,
-    "title": "Shampoo para autos",
-    "description": "Limpieza profunda",
-    "code": "AUTO001",
-    "price": 4500,
-    "stock": 15,
-    "category": "Limpieza vehicular",
-    "thumbnails": []
+    "thumbnails": [
+      "https://www.360detailing.cl/products/shampoo-meguiars-deep-crystal?srsltid=AfmBOoozEtRSPsUxV5-97rdZe-90tfU9Y6JsG1gpSOhDmuH6WPtR9rSF"
+    ]
   }
 ]

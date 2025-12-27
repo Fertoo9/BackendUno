@@ -5,8 +5,8 @@ import CartManager from "./CartManager.js";
 const app = express();
 app.use(express.json());
 
-const productManager = new ProductManager(`${process.cwd()}/products.json`);
-const cartManager = new CartManager(`${process.cwd()}/carts.json`);
+const productManager = new ProductManager("./products.json");
+const cartManager = new CartManager("./carts.json");
 
 /* PRODUCTS */
 app.get("/api/products", async (req, res) => {
